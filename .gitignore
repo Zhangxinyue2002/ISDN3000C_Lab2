@@ -1,4 +1,4 @@
-  # Ignore Python virtual environment
+# Ignore Python virtual environment
 venv/
-  # Ignore raw_data
- raw_data/
+# Ignore raw_data
+raw_data/
